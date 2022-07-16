@@ -1,0 +1,5 @@
+co\myLibrary\repository\IBookRepository.class
+co\myLibrary\model\Book.class
+co\myLibrary\controller\BookController.class
+co\myLibrary\myLibraryApplication.class
+co\myLibrary\service\BookService.class
